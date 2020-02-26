@@ -1,0 +1,11 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+  }
+
+  body {
+      background-color: #777;
+      font-family: 'ariel', 'helvetica neue', helvetica, sans-serif;
+      width: 960px;
+      font-size: 18px;
+  }
