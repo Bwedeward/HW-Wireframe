@@ -25,6 +25,7 @@
       flex: 1;
       margin-right: 10px;
       margin-left: 20px;
+      padding: 20px;
   }
 
   aside {
@@ -36,6 +37,7 @@
   article {
       background-color: #777;
       color: #ebebeb;
+      padding: 20px;
   }
 
   p {
