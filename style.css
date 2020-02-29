@@ -18,14 +18,23 @@
   header, nav, footer {
       height: 100px;
       margin: 20px;
-      padding: 41px;      
+      display: flex;
+      align-items: center;
+      justify-content: center;      
   }
 
   section {
+      position: relative;
       flex: 1;
       margin-right: 10px;
       margin-left: 20px;
       padding: 20px;
+  }
+
+  #sectionContent{
+      position: absolute;
+      top: 0px;
+      right: 85px;
   }
 
   aside {
@@ -58,3 +67,5 @@
   .total-width {
       width: 495px;
   }
+
+ 
